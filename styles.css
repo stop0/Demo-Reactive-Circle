@@ -1,3 +1,21 @@
 p {
   color: blue;
 }
+#circle {
+  background: red;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+#circle2 {
+  background: black;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  padding-top: 100px;
+  top: 50px;
+}
